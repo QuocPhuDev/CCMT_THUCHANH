@@ -1,1 +1,2 @@
 Them du lieu tu server
+Them du lieu tu client
