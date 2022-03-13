@@ -2,9 +2,8 @@ Them du lieu tu server
 Them du lieu tu client
 Them moi du lieu tu may2
 Them moi du lieu tu may2 lan 2
-<<<<<<< HEAD
+
 Them moi du lieu tu may1
 Them moi du lieu may2 lan 3
-=======
+
 Them moi du lieu tu may1
->>>>>>> 1b5c543929f386d5b05b31521572a5761d84d4aa
